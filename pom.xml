@@ -9,6 +9,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- just for testing stuff, delete later -->
+        <exec.mainClass>apa.Main</exec.mainClass>
     </properties>
 
     <dependencies>
