@@ -3,7 +3,7 @@ package apa
 /**
  * My example class.
  */
-class MyExampleClass
+class MyExampleClass extends robocode.Robot
 {
     def foo() {
         println("foo")
